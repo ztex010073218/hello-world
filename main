@@ -1,0 +1,7 @@
+//test for git and github
+//name Lin Perter
+#include <stdio.h>
+int main(void)
+{
+  return 0;
+}
